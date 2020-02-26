@@ -5,9 +5,9 @@ body{
 #box-page{
     background: white;
     border-radius: 15px;
-    width: 1050px;
+    width: 1100px;
     margin: auto;
-    margin-top: 25px;
+    margin-top: 30px;
     margin-bottom: 25px;
     padding-top: 1.5%;
 }
@@ -82,6 +82,7 @@ a:hover{
     color: rgb(130, 5, 168);
     margin-left: 0px;
     width: 0px;
+    font-size: 120%;
 }
 .logo a:hover{
     color: rgb(178, 7, 230);
@@ -114,8 +115,8 @@ a:hover{
 }
 #consulta{
     width: 600px;
-    height: 30px;
-    font-size: 17px;
+    height: 35px;
+    font-size: 18px;
     border-radius: 20px;
     border-color: rgb(138, 30, 210);
     outline: none;
@@ -143,9 +144,9 @@ a:hover{
 }
 .btn-pesquisar{
     width: 120px;
-    height: 40px;
+    height: 45px;
     color: rgb(255, 255, 255);
-    border-radius: 20px;
+    border-radius: 30px;
     border-style: solid;
     background-color: rgb(138, 30, 210);
     font-size: 17px;
@@ -282,16 +283,19 @@ a.link-card{
 }
 .title-preparo{
     color: rgb(138, 30, 210);
-    padding-left: 30px;
-    margin-top: 30px;
+    margin-left: 12.5%;
+    margin-top: 70px;
+    font-size: 30px;
 }
 .paragrafo-posts-topic{
     text-align: justify;
-    font-size: 19px;
+    font-size: 21px;
     color: rgb(75, 75, 75);
-    padding-left: 30px;
-    padding-right: 250px;
+    padding-left: 120px;
+    padding-right: 120px;
     margin-bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
     
 }
 
